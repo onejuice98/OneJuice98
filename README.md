@@ -6,9 +6,8 @@
 ### 🐹 about!
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eglc91">
 
-- 😺 2022.06.26 Start
-- ...(*￣０￣)ノ 
-
+- 🌠 (2021.03.01 ~ 2023.06.30) ...(*￣０￣)ノ 
+- 😺 (2022.06.26 ~ ) Start
 
 <!--
 **OneJuice98/OneJuice98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
