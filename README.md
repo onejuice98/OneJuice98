@@ -25,6 +25,7 @@
  1. AI/Machin learning
  2. web application 개발
  3. 게임개발
+https://velog.io/@oh_yunseong/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-TIP-%EC%A0%95%EB%A6%AC // 포트폴리오!
 **OneJuice98/OneJuice98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
