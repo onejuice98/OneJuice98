@@ -10,6 +10,21 @@
 - 😺 (2022.06.26 ~ ) Start
 
 <!--
+< 내가 지금 할 수 있는 언어> 
+ * 자신감 기준 정렬
+ 1. python 
+ 2. c++
+ 3. html/css/javascript
+< 내가 공부한 것들>
+ * 시간 투자 정렬, 프로젝트 
+ 1. AI/Machin learning <TextClassification>
+ 2. data science
+ 3. web application <Heightranking, findhome>
+ 
+< 내가 하고 싶은 것들>
+ 1. AI/Machin learning
+ 2. web application 개발
+ 3. 게임개발
 **OneJuice98/OneJuice98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
