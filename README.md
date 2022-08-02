@@ -6,8 +6,6 @@
 ### 🐹 about!
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eglc91">
 
-- 🌠 (2021.03.01 ~ 2023.06.30) ...(*￣０￣)ノ 
-- 😺 (2022.06.26 ~ ) Start
 
 <!--
 < 내가 지금 할 수 있는 언어> 
