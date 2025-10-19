@@ -1,51 +1,58 @@
-## OneJuice98 👻
+<h1 align="center"> Onejuice98 | AI Engineer </h1>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ojuice9890@gmail.com)
+<p align="center">
+  <a href="https://hololok.vercel.app/resume"><b>Resume</b></a> •
+  <a href="https://hololok.vercel.app"><b>Homepage</b></a> •
+  <a href="mailto:ojuice9890@gmail.com"><b>Email</b></a>
+</p>
 
-### 🐹 about!
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-111111?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-0A66C2?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Product%20Builder-FF6B00?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game%20AI-9146FF?style=for-the-badge&logo=unrealengine&logoColor=white" />
+</p>
 
-<!--
-< 내가 지금 할 수 있는 언어> 
- * 자신감 기준 정렬
- 1. python 
- 2. c++
- 3. html/css/javascript
-< 내가 공부한 것들>
- * 시간 투자 정렬, 프로젝트 
- 1. AI/Machin learning <TextClassification>
- 2. data science
- 3. web application <Heightranking, findhome>
- 
-< 내가 하고 싶은 것들>
- 1. AI/Machin learning
- 2. web application 개발
- 3. 게임개발
-https://velog.io/@oh_yunseong/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-TIP-%EC%A0%95%EB%A6%AC // 포트폴리오!
+---
 
- 개발 블로그 → Notion 
- 포트폴리오 → 웹사이트
- 
- 포트폴리오 시작 전 → vanila js 익숙해지기!
- 포트폴리오 순서 
- 1. vanila js <플젝>
- 2. react <플젝>
- 3. django <플젝>
- 4. java spring <플젝>
-  → 최종 reborn <플젝>
-  <이것은 내가 기존에 한 것들 renew 필요!> 
- 1. AI/Machin learning <TextClassification>
- 2. data science
- 3. web application <Heightranking, findhome>
-**OneJuice98/OneJuice98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ About Me
 
-Here are some ideas to get you started:
+I’m an **AI Product Builder** who turns ideas into services within **2 Weeks**.  
+From **LLM pipelines** to **full-stack web apps**, I execute end-to-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📈 Increased player conversion rate **23% → 69.4% (3× growth)**  
+- 💸 Reduced LLM API cost by **20%** via RAG optimization  
+- ⚙️ Accelerated model latency **60s → 10s (83% faster)**  
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,nextjs,tailwind,vercel,git,docker,gcp,pytorch,postgresql,supabase,unrealengine,lua&theme=dark" />
+</p>
+
+#### 🧠 AI / LLM
+`LangChain` · `LangGraph` · `OpenAI API` · `RAG` · `vLLM` · `LoRA Fine-Tuning`  
+Prompt engineering, tool-calling, and JSON schema-based agent design  
+
+#### 💻 Backend / Infra
+`FastAPI` · `Docker` · `Supabase` · `PostgreSQL` · `Cloud Run` · `CI/CD`  
+Serverless deployment and LLM observability via LangSmith  
+
+#### 🖥️ Frontend
+`Next.js` · `TypeScript` · `Tailwind` <br/>
+Full-stack web integration for AI products  
+
+#### 🎮 Game / Simulation
+`Unreal Engine 5` · `Lua` · `WebSocket JSON Agents`  
+Building LLM-driven tactical combat and simulation AI  
+
+---
+
+<p align="center">
+  <a href="https://hololok.vercel.app/resume"><img src="https://img.shields.io/badge/View%20Resume-18181B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="right">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=onejuice98.onejuice98&left_text=Visitors" />
+</p>
+
