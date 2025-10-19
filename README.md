@@ -1,6 +1,5 @@
 ## OneJuice98 👻
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOneJuice98&count_bg=%2304C648&title_bg=%231D2C9E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ojuice9890@gmail.com)
 
 ### 🐹 about!
