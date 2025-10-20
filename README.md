@@ -1,4 +1,4 @@
-<h1 align="center"> Onejuice98 | AI Engineer </h1>
+<h1 align="center"> Onejuice98 | ML / AI Engineer </h1>
 
 <p align="center">
   <a href="https://hololok.vercel.app/resume"><b>Resume</b></a> •
